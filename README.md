@@ -4,6 +4,10 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 <br>
 ![Screenshots](Screenshot.jpg)
 
+## Screenshot
+
+![Screenshot](Screenshots/Screenshot.jpg)
+
 ## Files
 
 - `rom lookup.html`: Desktop version
