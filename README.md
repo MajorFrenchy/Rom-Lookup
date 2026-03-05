@@ -53,6 +53,6 @@ Created by: Major Frenchy
 <br>
 Special Thanks:
 
-SuperHack for his  Media Database leveraged by this project. <a href="https://github.com/superhac"> Media Database</a>
-Virtual Pinball Spreadsheet maintainers ( DuxRero ) <a href="virtual-pinball-spreadsheet.web.app">Virtual Pinball Spreadsheet</a>
+SuperHack for his  Media Database leveraged by this project. <a href="https://github.com/superhac"> Media Database</a> <br>
+Virtual Pinball Spreadsheet maintainers ( DuxRero ) <a href="https://virtualpinballspreadsheet.github.io/">Virtual Pinball Spreadsheet</a>
 
