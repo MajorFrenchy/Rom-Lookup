@@ -5,8 +5,6 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 
 
 
-## Screenshots
-
 <table>
   <tr>
     <td align="center" width="50%">
