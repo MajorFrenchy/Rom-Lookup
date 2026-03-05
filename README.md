@@ -8,15 +8,20 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 
 ![Screenshot](Screenshots/Screenshot.jpg)
 
-## Files
+<br>
 
-- `rom lookup.html`:
+
 <a href="https://www.majorfrenchy.com/rom-lookup/">
   <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/desktop.png?raw=true" alt="Alt Text" width="25%">
 </a>
+<h1>Desktop version</h1> 
 
-  Desktop version ----
-- `rom lookup_M.html`: Mobile version
+<a href="https://www.majorfrenchy.com/rom-lookup/mobile">
+  <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/mobile.png?raw=true" alt="Alt Text" width="25%">
+</a>
+<h1>Mobile version</h1> 
+
+
 
 ## Features
 
