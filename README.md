@@ -46,3 +46,13 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 
 - This project is static HTML/CSS/JavaScript (no build step).
 - Data is embedded directly in each HTML file.
+
+
+🙏 Acknowledgments
+Created by: Major Frenchy
+
+Special Thanks:
+
+SuperHack for his coding tips/help and his Media Database leveraged by this project. https://github.com/superhac
+Virtual Pinball Spreadsheet maintainers ( DuxRero ) <a href="virtual-pinball-spreadsheet.web.app">Visit W3Schools</a>
+
