@@ -2,7 +2,7 @@
 
 Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet image preview.
 <br>
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
 
 ## Files
 
