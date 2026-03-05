@@ -10,7 +10,9 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 
 ## Files
 
-- `rom lookup.html`: Desktop version
+- `rom lookup.html`:
+[![Alt Text](ImageURL)](DestinationURL)
+  Desktop version ----
 - `rom lookup_M.html`: Mobile version
 
 ## Features
