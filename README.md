@@ -4,22 +4,28 @@ Simple HTML-based VPX ROM lookup tools with table search, VPS links, and cabinet
 <br>
 
 
-## Screenshot
 
-![Screenshot](Screenshots/Screenshot.jpg)
+## Screenshots
 
-<br>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.majorfrenchy.com/rom-lookup/">
+        <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/desktop.png?raw=true" alt="Desktop version" width="100%">
+      </a>
+      <br>
+      <strong>Desktop version</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.majorfrenchy.com/rom-lookup/mobile/">
+        <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/mobile.png?raw=true" alt="Mobile version" width="100%">
+      </a>
+      <br>
+      <strong>Mobile version</strong>
+    </td>
+  </tr>
+</table>
 
-
-<a href="https://www.majorfrenchy.com/rom-lookup/">
-  <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/desktop.png?raw=true" alt="Alt Text" width="25%">
-</a>
-<h1>Desktop version</h1> 
-
-<a href="https://www.majorfrenchy.com/rom-lookup/mobile">
-  <img src="https://github.com/MajorFrenchy/Rom-Lookup/blob/main/Screenshots/mobile.png?raw=true" alt="Alt Text" width="25%">
-</a>
-<h1>Mobile version</h1> 
 
 
 
